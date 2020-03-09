@@ -22,4 +22,4 @@ First of all, a separate folder is created for the project purpose and cloned th
 git clone https://github.com/Mub96/group.git
 ```
 
-[gitclone]: http://bugtestpoc.000webhostapp.com/assignment/gitproj.PNG
+![gitclone](http://bugtestpoc.000webhostapp.com/assignment/gitproj.PNG)
